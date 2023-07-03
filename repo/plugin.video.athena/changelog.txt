@@ -1,0 +1,6 @@
+[COLOR red][B]Athena v1.0.2[/B]
+Updated Scrapers.
+[COLOR red][B]Athena v1.0.1[/B]
+Athena addon by Breezz.
+Faster and smaller.
+
